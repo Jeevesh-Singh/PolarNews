@@ -1,0 +1,14 @@
+{
+    "name" : "PolarNews",
+    "version" : "1.0.0",
+    "manifest_version" : 3,
+    "action" : {
+        "default_icon" : {"148" : "download.png"},
+        "default_popup" : "index.html"
+        
+
+    },
+    "permissions": ["activeTab"]
+
+
+}
